@@ -1,0 +1,12 @@
+<?
+
+require('stripe-php-master/init.php');
+
+$publishableKey="
+pk_test_51OxN78SErYSymZiaIJiP6egdeEVcA691Hb62keRFEpXht17CgTyitYUl4NmHBzUdYcxulqubcv6ApKlBHr1op7cf00pqDIjgp0";
+
+
+$secretKey="
+sk_test_51OxN78SErYSymZiaxJPBEebhiLeCw5OJCzz4oaNemLepo5QdxCfIYfCEQVw7UqmTxEMkRSrk6mTU0qf2LKWCIK1K00uEu7NgMV";
+
+?>
